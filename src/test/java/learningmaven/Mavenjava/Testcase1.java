@@ -8,6 +8,7 @@ public class Testcase1 {
 	public void Yahoopage()
 	{
 		System.out.println("I am Yahoo");
+		System.out.println("Added after cloning user A");
 	}
 	
 
